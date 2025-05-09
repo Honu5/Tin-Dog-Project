@@ -11,12 +11,7 @@
 	animation: gradient 15s ease infinite;
 	
 	
-		/* Don't set height */
-		/* height: auto; ← this is the default */
-	  
-		padding: 1rem;       /* optional spacing inside */
-		border: 1px solid #ccc; /* just for visibility */
-		 /* optional */
+		
 	  }
 	  
 	
